@@ -1,3 +1,6 @@
+![mj-stable-diff-compressed](https://github.com/Abdullahkhan5/Stable_Diffusion_Custom_Training/assets/70315737/9414a47f-b73b-4880-9870-56295d28bd71)
+
+
 # Introduction
 The notebook contains distributed training code for stable diffusion model on custom dataset.
 
